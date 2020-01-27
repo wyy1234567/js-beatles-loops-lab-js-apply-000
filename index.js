@@ -21,4 +21,10 @@ function johnLennonFacts(facts) {
   return result;
 }
 
-function iLoveTheBeatles
+function iLoveTheBeatles(num) {
+  var result = [];
+  var string = "I love the Beatles!";
+  do {
+    
+  }
+}
