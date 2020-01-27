@@ -28,4 +28,6 @@ function iLoveTheBeatles(num) {
     result.push(string);
     num++;
   } while(num < 15);
+  
+  return result;
 }
