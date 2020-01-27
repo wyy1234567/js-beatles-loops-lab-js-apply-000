@@ -25,6 +25,9 @@ function iLoveTheBeatles(num) {
   var result = [];
   var string = "I love the Beatles!";
   do {
+    result.push(string);
+    num++;
+  } while {
     
   }
 }
